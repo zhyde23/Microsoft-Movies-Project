@@ -1,5 +1,4 @@
 # Microsoft-Movies-Project - Zachary and Vikas
-This Project Repository consists of the following files:
 
 #  Our Goal:
 1. The project aims to analyze movie data provided by several sources and provide insight on business expansion into the movie production business
