@@ -22,13 +22,13 @@ This Project Repository consists of the following files:
  
  
  Folder: Vikas
-   # Jupyter Notebooks:
+   Jupyter Notebooks:
    1. Data_cleaning_Vikas: Technical Notebook used for Data Cleaning and Initial analysis. 
    2. Data_analysis: Data Analysis by Vikas is split in two seperate notebooks. Data_analysis is the first part. 
    3. Data_analysis_2_vikas: Second Part of Data Analysis by Vikas. 
    4. Untitled: Starter Code template. 
    
-   # csv files:
+   Csv files:
    1. df_1_cleaned: Cleaned csv file for tmdb.movies (Refer to notebook - 'Data_cleaning_Vikas)
    2. df_3_cleaned: Cleaned csv file for title.basics (Refer to notebook - 'Data_cleaning_Vikas)
    3. df_4_cleaned: Cleaned csv file for tn.movie_budgets (Refer to notebook - 'Data_cleaning_Vikas)
